@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "mongodb+srv://fabianbanderasb:fabucoM7_@@cluster0.gjqyjnh.mongodb.net/",
+            "request": "launch",
+            "url": "mongodb+srv://fabianbanderasb:fabucoM7_@@cluster0.gjqyjnh.mongodb.net/"
+        }
+    ]
+}
