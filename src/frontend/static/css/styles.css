@@ -26,3 +26,6 @@ span.negrita{
     color: brown;
     background-color: brown;
 }
+#btnSaludar, #btnOtro{
+    background-color: #585556;
+}
